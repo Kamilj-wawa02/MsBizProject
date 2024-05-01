@@ -1,0 +1,11 @@
+book_id	title	author	genre	descr	country	netto_value	vat	brutto_value
+1	Ksiazka nr 1	Autor 6	Historyczna	Krotki opis ksiazki nr 1	ENG	47.69	0.23	58.66
+2	Ksiazka nr 2	Autor 9	Kryminal	Krotki opis ksiazki nr 2	PL	46.87	0.23	57.65
+3	Ksiazka nr 3	Autor 2	Fantastyka	Krotki opis ksiazki nr 3	PL	48.35	0.23	59.47
+4	Ksiazka nr 4	Autor 2	Thriller	Krotki opis ksiazki nr 4	ENG	17.2	0.23	21.16
+5	Ksiazka nr 5	Autor 4	Fantastyka	Krotki opis ksiazki nr 5	PL	26.78	0.23	32.94
+6	Ksiazka nr 6	Autor 10	Literatura faktu	Krotki opis ksiazki nr 6	ENG	41.91	0.23	51.55
+7	Ksiazka nr 7	Autor 8	Thriller	Krotki opis ksiazki nr 7	ENG	22.01	0.23	27.07
+8	Ksiazka nr 8	Autor 3	Literatura faktu	Krotki opis ksiazki nr 8	ENG	24.38	0.23	29.99
+9	Ksiazka nr 9	Autor 6	Science Fiction	Krotki opis ksiazki nr 9	PL	16.25	0.23	19.99
+10	Ksiazka nr 10	Autor 7	Fantastyka	Krotki opis ksiazki nr 10	ENG	47.53	0.23	58.46
